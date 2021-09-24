@@ -13,3 +13,6 @@ In the file there are seven functions:
 ![image](https://user-images.githubusercontent.com/76739304/134703426-46c174e7-4c49-4534-bef3-fee31e7ab9cd.png)\
 The user can choose, whether the median or average should be used.
 7. **Spausdinimas**. Prints the results: name, last name and final mark.
+
+## Example of Implementation
+<img width="1136" alt="Screenshot 2021-09-24 at 18 48 23" src="https://user-images.githubusercontent.com/76739304/134704369-880247ee-669e-4601-a3d9-7ed5cd2381bd.png">
