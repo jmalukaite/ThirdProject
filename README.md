@@ -1,5 +1,5 @@
 # V.02
-This is the updated version on *V.01 realization using vectors*.
+This is the updated version on V.01 realization using vectors.
 
 ###### What is new
 - Firstly, an option for the user to choose whether they want to input information of a student by themselves in the console or to read the information from a file. If the user chooses to read information from a txt file, a function **NuskaitymasIsFailo** is called. In this function data is read using fstream.
