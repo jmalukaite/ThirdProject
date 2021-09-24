@@ -10,6 +10,6 @@ In the file there are seven functions:
 4. **NamuDarbuVidurkioSkaiciavimas**. The function returns the average mark of homework.
 5. **NamuDarbuMedianosSkaiciavimas**. The function returns the median of homework. Firstly, the marks are sorted using *sort()* algorithm and then the middle element, which is the median, is found.
 6. **GalutinioSkaiciavimas**. This function returns the mark of the whole course. For the calculating part, a formula is used:
-<img width="362" alt="Screenshot 2021-09-24 at 18 42 46" src="https://user-images.githubusercontent.com/76739304/134703266-79d9b54d-6687-478e-afe3-6680565c83aa.png">
+![image](https://user-images.githubusercontent.com/76739304/134703426-46c174e7-4c49-4534-bef3-fee31e7ab9cd.png)
      The user can choose, whether the median or average should be used.
 7. **Spausdinimas**. Prints the results: name, last name and final mark.
