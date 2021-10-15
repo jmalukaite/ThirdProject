@@ -1,0 +1,5 @@
+#ifndef V_03_NAMUDARBUSKAICIAVIMAS_H
+#define V_03_NAMUDARBUSKAICIAVIMAS_H
+double NamuDarbuMedianosSkaiciavimas(Studentas studentas);
+double NamuDarbuVidurkioSkaiciavimas(Studentas studentas);
+#endif //V_03_NAMUDARBUSKAICIAVIMAS_H
