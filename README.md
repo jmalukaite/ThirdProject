@@ -14,4 +14,7 @@ Using list<Studentas>:
   
 <img width="551" alt="v 05 analize" src="https://user-images.githubusercontent.com/76739304/140506465-15d08456-33fa-40a7-8f3e-7ed4cd7e7810.png">
 
-
+## Findings
+As we can see from the compile time, reading from file and grouping time is very similar using list and vector. However, grouping takes a little bit less time using list (to iterate through the list<Studentas>, iterator was included in the project).
+  
+##Computer characteristics
