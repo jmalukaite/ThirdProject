@@ -17,4 +17,7 @@ Using list<Studentas>:
 ## Findings
 As we can see from the compile time, reading from file and grouping time is very similar using list and vector. However, grouping takes a little bit less time using list (to iterate through the list<Studentas>, iterator was included in the project).
   
-##Computer characteristics
+## Computer characteristics
+- CPU 2,3 GHz 8-Core Intel Core i9
+- RAM 16 GB 2667 MHz DDR4
+- Macintosh HD 1 TB
