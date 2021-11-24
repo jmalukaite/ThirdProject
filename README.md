@@ -21,3 +21,7 @@ As we can see from the compile time, reading from file and grouping time is very
 - CPU 2,3 GHz 8-Core Intel Core i9
 - RAM 16 GB 2667 MHz DDR4
 - Macintosh HD 1 TB
+  
+## Edited
+  
+<img width="599" alt="versija05" src="https://user-images.githubusercontent.com/76739304/143242447-4fbbdf0d-dbe4-4629-9f21-7ccca28f1d2c.png">
