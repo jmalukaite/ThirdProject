@@ -1,4 +1,2 @@
-# ObjectOrientedProgramming-FirstProject
-The purpose of this project is to print necessary data about students according to the information that has been read. Variables, functions, outputs and comments are written in Lithuanian.
-
-This project consists of few different code realizations that are constantly being updated. More information about each version is provided in the *README* file of an according branch. 
+# 1.2 Version
+ The purpose of this version is to implement the *RULE OF THREE* in version 1.1 using class. The biggest difference from 1.1 version is that in *studentas.h* destructor, copy constructor and copy assignment constructor were added. For the copy assignment constructor a function called *swap* was created. The destructor is set on default. If some kind of phrase to be printed is written in the destructor, in the Run area it is seen that destructor is called many times.
