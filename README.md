@@ -1,4 +1,8 @@
-# ObjectOrientedProgramming-FirstProject
-The purpose of this project is to print necessary data about students according to the information that has been read. Variables, functions, outputs and comments are written in Lithuanian.
+# 2.0 Version
+In this version there is an included documentation (made using *Doxygen*)in html and a source link. Also, in the project a test can be found to check whether a setter and getter works correctly.
 
-This project consists of few different code realizations that are constantly being updated. More information about each version is provided in the *README* file of an according branch. 
+## Doxygen
+The 1.5 version was documentated using doxygen. In the documentation, information about classes, functions, various comments can be found.
+
+## Tests
+In the new version there is a test for getter and setter. For the test to work correctly, googletest was downloaded from github through computer terminal. The CMakeList was modified by hand (few lines added). The required files for googletest to work were saved in a new folder called *lib* (the folder is on my computer due to its large size).
