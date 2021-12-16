@@ -1,4 +1,6 @@
-# ObjectOrientedProgramming-FirstProject
-The purpose of this project is to print necessary data about students according to the information that has been read. Variables, functions, outputs and comments are written in Lithuanian.
+# 1.5 Version
+The purpose of this version is to create an abstract base class called *Zmogus*, so that class *Studentas* would be derived from the base class. 
 
-This project consists of few different code realizations that are constantly being updated. More information about each version is provided in the *README* file of an according branch. 
+## Abstract class
+The abstract base class has two protected variables *vardas* and *pavarde*. A Studentas type object heritages a student's name and surname from the base class. 
+Class *Zmogus* also has a constructor, destructor and two virtual string type functions (getters for name and surname).
