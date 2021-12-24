@@ -1,4 +1,3 @@
-# ObjectOrientedProgramming-FirstProject
-The purpose of this project is to print necessary data about students according to the information that has been read. Variables, functions, outputs and comments are written in Lithuanian.
-
-This project consists of few different code realizations that are constantly being updated. More information about each version is provided in the *README* file of an according branch. 
+# ObjectOrientedProgramming-ThirdProject
+This repository is based on the first and second projects. It contains all files from the two mentioned repositories (they were added by cloning a previous repository).
+Programming language C++.
